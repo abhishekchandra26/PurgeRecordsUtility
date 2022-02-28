@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurgeRecords", "PurgeRecords\PurgeRecords.csproj", "{E039EF47-BEA8-463E-AB38-A5C92CFFAE27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E039EF47-BEA8-463E-AB38-A5C92CFFAE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E039EF47-BEA8-463E-AB38-A5C92CFFAE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E039EF47-BEA8-463E-AB38-A5C92CFFAE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E039EF47-BEA8-463E-AB38-A5C92CFFAE27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7F8D98B-1B5B-4238-BEEB-7884B51007F2}
+	EndGlobalSection
+EndGlobal
